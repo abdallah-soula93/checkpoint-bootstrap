@@ -1,0 +1,289 @@
+body
+{
+    background-image: 
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),Linear-gradient(127deg, black, black 70.71%),Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);;
+
+}
+#carousel-example-generic{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.navg{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 30px;
+}
+a:hover {
+color: red;
+}
+.HV{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.courses{
+    justify-content: center;
+align-items: center;
+    
+    color: aliceblue;
+    text-align: center;
+    font-size: 100px;
+    
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.contact{
+    justify-content: flex-start;
+    align-items: center;
+    
+    color: aliceblue;
+    
+    font-size: 100px;
+  
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+form{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.input{
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+}
+.button{
+   border-radius: 7px;
+    background-color: mediumblue;
+    width: 100px;
+    height: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    font-size: 20px;
+    background-blend-mode: luminosity;
+
+}
+hr{
+    color: aliceblue;
+}
+.feedback{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: aliceblue;
+}
+.course1{
+    border-radius: 7px;
+    
+    width: 250px;
+    height: 200px;
+  
+   background-image: url('cours1.PNG');
+   margin-top: 20px;
+   margin-bottom: 20px;
+   background-size: cover;
+   overflow: hidden;
+   display: inline-block;
+}
+.course2{
+    border-radius: 7px;
+    background-color: aliceblue;
+    width: 250px;
+    height: 200px;
+
+    background-image: url('cours2.PNG');
+    margin-top: 20px;
+   margin-bottom: 20px;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+
+}
+
+
+.course3{
+    border-radius: 7px;
+    background-color: aliceblue;
+    width: 250px;
+    height: 200px;
+
+    background-image: url('cours3.PNG');
+    margin-top: 20px;
+   margin-bottom: 20px;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+}
+.course4{
+    border-radius: 7px;
+    background-color: aliceblue;
+    width: 250px;
+    height: 200px;
+    
+   
+    background-image: url('cours4.PNG');
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+
+}
+.course5{
+    border-radius: 7px;
+    background-color: aliceblue;
+    width: 250px;
+    height: 200px;
+    
+   
+    background-image: url('cours5.PNG');
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+
+}
+.course6{
+    border-radius: 7px;
+    background-color: aliceblue;
+    width: 250px;
+    height: 200px;
+    
+   
+    background-image: url('cours6.PNG');
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+
+}
+.course7{
+    border-radius: 7px;
+    background-color: aliceblue;
+    width: 250px;
+    height: 200px;
+    
+   
+    background-image: url('cours7.PNG');
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+
+}
+.course8{
+    border-radius: 7px;
+    background-color: aliceblue;
+    width: 250px;
+    height: 200px;
+    
+   
+    background-image: url('cours8.PNG');
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+
+}
+.course9{
+    border-radius: 7px;
+    background-color: aliceblue;
+    width: 250px;
+    height: 200px;
+    
+   
+    background-image: url('cours9.PNG');
+    margin-top: 20px;
+   margin-bottom: 20px;
+    background-size: cover;
+    overflow: hidden;
+    display: inline-block;
+
+}
+
+.btncourse1{
+    margin-top: 100px;
+    color: darkgrey;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btncourse2{
+    margin-top: 100px;
+    color: darkgrey;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btncourse3{
+    margin-top: 100px;
+    color: darkgrey;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btncourse4{
+    margin-top: 100px;
+    color: darkgrey;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btncourse5{
+    margin-top: 100px;
+    color: darkgrey;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btncourse6{
+    margin-top: 100px;
+    color: darkgrey;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btncourse7{
+    margin-top: 100px;
+    color: darkgrey;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btncourse8{
+    margin-top: 100px;
+    color: darkgrey;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btncourse9{
+    margin-top: 100px;
+    color: darkgrey;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.image-background{
+    
+    background-image: url("../res/image5.png");
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#modal{
+
+    padding: 30px;
+    margin-top: 100px;
+    margin-left: 25px;
+}
